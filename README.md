@@ -6,7 +6,6 @@
 - 🥅 2024 Goals: Boost productivity and reach new milestones.
 
 <br>
-<img height="30" src="https://img.shields.io/badge/Testing-🔍-blue.svg?&style=for-the-badge&logo=testing&logoColor=white" />
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> &nbsp;
