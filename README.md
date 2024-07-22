@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m a Test Automation Architect and DevOps Engineer currently delving into Data Science.
+- 🔭 I’m a Test Automation Architect and DevOps Engineer delving into Data Science.
 - 📫 How to reach me: srbhdubey227@gmail.com 
 - ⚡ By 2029, artificial intelligence will rival human capabilities; by 2045, it will revolutionize our civilization a billion-fold.
 - 🥅 2024 Goals: Boost productivity and reach new milestones.
